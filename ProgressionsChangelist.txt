@@ -1,0 +1,75 @@
+**Changelist**
+Line 1508 - Added Tablesaw Recipie unlock to Level 1 Advanced Engineering
+Line 1530 - Added Chem Station Recipie Unlock to Level 1 Yeah Science
+Line 1530 - Added Mod Schematic Unlock to Level 1 Yeah Science
+Line 1532 - Added Mod Schematic Unlock to Level 2 Yeah Science
+Line 1534 - Added Mod Schematic Unlock to Level 3 Yeah Science
+Line 1536 - Added Mod Schematic Unlock to Level 4 Yeah Science
+Line 1538 - Added Mod Schematic Unlock to Level 5 Yeah Science
+
+Tier 1 Schematic Mods added to Yeah Science
+modGunBarrelExtender
+modGunRetractingStock
+modGunDuckbill
+modMeleeWeightedHead
+modMeleeStructuralBrace
+modMeleeErgonomicGrip
+modMeleeClubBarbedWire
+modArmorInsulatedLiner
+modArmorCoolingMesh
+modArmorReinforcedPadding
+modArmorHelmetLight
+
+Tier 2 Schematic Mods added to Yeah Science
+modGunMuzzleBrake
+modGunLaserSight
+modGunFlashlight
+modGunScopeSmall
+modGunReflexSight
+modGunBipod
+modGunForegrip
+modGunChoke
+modShotgunSawedOffBarrel
+modGunBowPolymerString
+modGunMeleeBlessedMetal
+modMeleeFortifyingGrip
+modMeleeClubMetalSpikes
+modArmorBandolier
+modArmorImprovedFittings
+modArmorPlasticPlating
+modArmorStoragePocket
+modArmorSpikedKnuckles
+modArmorImpactBracing
+
+
+Tier 3 Scheamtic Mods added to Yeah Science
+modGunScopeMedium
+modGunRodAndSpring
+modGunMagazineExtender
+modMeleeTemperedBlade
+modMeleeSerratedBlade
+modMeleeClubBurningShaft
+modArmorCustomizedFittings
+modArmorScrapPlating
+modArmorIronPlating
+modArmorDoubleStoragePocket
+modArmorMuffledConnectors
+
+
+Tier 4 Scheamtic Mods added to Yeah Science
+modGunScopeLarge
+modGunTriggerGroupSemi
+modGunTriggerGroupBurst
+modGunTriggerGroupAutomatic
+modGunMeleeFeelTheHeat
+modGunCrippleEm
+modGunMeleeTheHunter
+modGunMeleeRadRemover
+modArmorMilitaryPlating
+modArmorSteelPlating
+
+Tier 5 Scheamtic Mods added to Yeah Science
+modGunSoundSuppressorSilencer
+modArmorTripleStoragePocket
+modArmorAdvancedMuffledConnectors
+modArmorWaterPurifier
